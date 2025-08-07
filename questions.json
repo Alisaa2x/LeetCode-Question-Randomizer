@@ -142,5 +142,89 @@
     "link": "https://leetcode.com/problems/text-justification/",
     "topic": "array",
     "difficulty": "hard"
+  },
+  {
+    "title": "Valid Palindrome",
+    "link": "https://leetcode.com/problems/valid-palindrome/",
+    "topic": "two pointers",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Is Subsequence",
+    "link": "https://leetcode.com/problems/is-subsequence/",
+    "topic": "two pointers",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Two Sum II - Input Array Is Sorted",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "topic": "two pointers",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Container With Most Water",
+    "link": "https://leetcode.com/problems/container-with-most-water/",
+    "topic": "two pointers",
+    "difficulty": "medium"
+  },
+  {
+    "title": "3Sum",
+    "link": "https://leetcode.com/problems/3sum/",
+    "topic": "two pointers",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Minimum Size Subarray Sum",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "topic": "sliding window",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "topic": "sliding window",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Substring with Concatenation of All Words",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+    "topic": "sliding window",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Minimum Window Substring",
+    "link": "https://leetcode.com/problems/minimum-window-substring/",
+    "topic": "sliding window",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Valid Sudoku",
+    "link": "https://leetcode.com/problems/valid-sudoku/",
+    "topic": "matrix",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Spiral Matrix",
+    "link": "https://leetcode.com/problems/spiral-matrix/",
+    "topic": "matrix",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Rotate Image",
+    "link": "https://leetcode.com/problems/rotate-image/",
+    "topic": "matrix",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "topic": "matrix",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Game of Life",
+    "link": "https://leetcode.com/problems/game-of-life/",
+    "topic": "matrix",
+    "difficulty": "medium"
   }
 ]
