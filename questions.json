@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Merge Sorted Array",
+    "link": "https://leetcode.com/problems/merge-sorted-array/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Remove Element",
+    "link": "https://leetcode.com/problems/remove-element/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array II",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Majority Element",
+    "link": "https://leetcode.com/problems/majority-element/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Rotate Array",
+    "link": "https://leetcode.com/problems/rotate-array/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock II",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Jump Game",
+    "link": "https://leetcode.com/problems/jump-game/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Jump Game II",
+    "link": "https://leetcode.com/problems/jump-game-ii/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "H-Index",
+    "link": "https://leetcode.com/problems/h-index/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Insert Delete GetRandom O(1)",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Product of Array Except Self",
+    "link": "https://leetcode.com/problems/product-of-array-except-self/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Gas Station",
+    "link": "https://leetcode.com/problems/gas-station/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Candy",
+    "link": "https://leetcode.com/problems/candy/",
+    "topic": "array",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Trapping Rain Water",
+    "link": "https://leetcode.com/problems/trapping-rain-water/",
+    "topic": "array",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Roman to Integer",
+    "link": "https://leetcode.com/problems/roman-to-integer/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Integer to Roman",
+    "link": "https://leetcode.com/problems/integer-to-roman/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Length of Last Word",
+    "link": "https://leetcode.com/problems/length-of-last-word/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Longest Common Prefix",
+    "link": "https://leetcode.com/problems/longest-common-prefix/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Reverse Words in a String",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Zigzag Conversion",
+    "link": "https://leetcode.com/problems/zigzag-conversion/",
+    "topic": "array",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Find the Index of the First Occurrence in a String",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "topic": "array",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Text Justification",
+    "link": "https://leetcode.com/problems/text-justification/",
+    "topic": "array",
+    "difficulty": "hard"
+  }
+]
